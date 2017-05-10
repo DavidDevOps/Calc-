@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\heewo\AndroidStudioProjects\Calc++\app\build\intermediates\exploded-aar\Calc++.libraries\actionbarsherlock\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="45f0d38959d49087f1bdb0a3d69cda2afcbb02bd">
+        <dex dex="C:\Users\heewo\AndroidStudioProjects\Calc++\app\build\intermediates\pre-dexed\debug\classes-94107da3cc7a997e11a1667e43faaf80066dfbc1.jar" />
+    </item>
+    <item
+        jar="C:\Users\heewo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\heewo\AndroidStudioProjects\Calc++\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-f6fc66acf03a2f2c8d63ac95fd26cf8015a2c3d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\heewo\AndroidStudioProjects\Calc++\app\build\intermediates\exploded-aar\Calc++.libraries.SlidingMenu-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f7effd29aa2154ce94442e4026bfd3bb59cbc3f6">
+        <dex dex="C:\Users\heewo\AndroidStudioProjects\Calc++\app\build\intermediates\pre-dexed\debug\classes-b967aa87ca5a868934c2600750ac27f6db0b8235.jar" />
+    </item>
+
+</items>
